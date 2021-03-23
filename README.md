@@ -1,0 +1,2 @@
+# MenuMAGS
+menu mags DT
